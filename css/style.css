@@ -115,6 +115,17 @@ p {
     margin: 30px 0px;
 }
 
+/**
+.header_area_text a {
+    background: #4ECB8C;
+    display: inline-block;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px;
+}
+*/
 
 .copyrights{
 	text-indent:-9999px;
