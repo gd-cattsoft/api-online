@@ -1,0 +1,31 @@
+/************** deafault css******************/
+
+.green-a {
+    background: #4ECB8C;
+    display: inline-block;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.blue-a {
+    background: #40E0D0;
+    display: inline-block;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.yellow-a {
+    background: #FFBBFF;
+    display: inline-block;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px;
+}
